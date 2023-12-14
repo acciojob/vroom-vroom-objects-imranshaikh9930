@@ -23,7 +23,7 @@ SportsCar.prototype.constructor = SportsCar;
 
 SportsCar.prototype.getTopSpeed = function (){
 
-	return this.topspeed;
+	return this.topSpeed;
 }
 
 
